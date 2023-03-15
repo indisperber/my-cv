@@ -25,14 +25,13 @@ body {
 	background-color: #C5D1C1;
 }
 
-.fw-bolder {
-	color: #3C4D46; 
-}
-
 .name {
 	font-family: "Rockwell";
 	color: #3C4D46; 
-	
+}
+
+.customheading {font-family: Rockwell; 
+	color: #3C4D46
 }
 
 /* Styles for lists in the document */

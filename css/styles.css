@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: Helvetica;
 	color: #202030;
 	background-color: #f8f8fc;
 }
@@ -25,10 +25,20 @@ body {
 	background-color: #C5D1C1;
 }
 
+.fw-bolder {
+	color: #3C4D46; 
+}
+
+.h1 {
+	font-family: "Rockwell";
+	color: #3C4D46; 
+	
+}
+
 /* Styles for lists in the document */
 
 .biography-details li::before, .skill-list li::before {
-	content: ">";
+	content: "-";
 	font-weight: 800;
 	display: inline-block;
 	width: 1em;
@@ -36,7 +46,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #3C4D46;
 }
 
 .biography-details li, .skill-list li {

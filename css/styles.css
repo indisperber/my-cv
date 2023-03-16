@@ -25,12 +25,14 @@ body {
 	background-color: #C5D1C1;
 }
 
-.name {
-	font-family: "Rockwell";
-	color: #3C4D46; 
+.customheading {
+	font-family: Rockwell; 
+	color: #3C4D46
 }
 
-.customheading {font-family: Rockwell; 
+.indisperbername {font-family: 'Fredoka One', cursive;
+	font-family: 'Lalezar', cursive;
+	font-family: 'Rubik Mono One', sans-serif;
 	color: #3C4D46
 }
 
